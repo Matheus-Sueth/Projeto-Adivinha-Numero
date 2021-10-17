@@ -1,7 +1,7 @@
-# Simulador de Adivinhação
+# Jogo de Adivinhação
 
 
-Objetivo: Seu script deve gerar um valor aleatório entre 1 e 6(ou uma faixa que você definir) e permitir que o usuário rode o script quantas vezes quiser.
+Objetivo:
 
 Você deve desenvolver um projeto em Python que irá rodar inicialmente na linha de comando e que, ao ser executado, deverá pergunta o seguinte ao usuário: “Você gostaria de jogar o dado?” Ou alguma variação dessa pergunta. Depois de ter feito essa pergunta, o seu programa precisa avaliar a resposta que foi digitado pelo usuário.
 
