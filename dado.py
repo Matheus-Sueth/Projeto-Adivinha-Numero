@@ -20,6 +20,8 @@ while jogo:
     if num == dado:
       print('Parabéns vc acertou o número adivinhado')
       break
+    elif num > 6 or num < 1:
+      print('Essa resposta é inválida, apenas números entre 1 e 6.')
     else:
       if tent == 3:
         print(f'Você errou pela {tent}ª vez. Game over!')
