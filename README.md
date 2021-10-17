@@ -1,4 +1,4 @@
-# Simulador  - de Adivinhação
+# Simulador de Adivinhação
 
 
 Objetivo: Seu script deve gerar um valor aleatório entre 1 e 6(ou uma faixa que você definir) e permitir que o usuário rode o script quantas vezes quiser.
